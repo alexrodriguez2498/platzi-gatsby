@@ -1,4 +1,3 @@
-  
 import styled from "styled-components"
 import { above } from "./index"
 
@@ -8,7 +7,7 @@ export const colors = {
   gray: "#969696",
   darkBlue: "#1c3643",
   lightBlue: "#1e5372",
-  softGray: "#f6f8f9",
+  softGray: "#f6f8f9"
 }
 
 export const StyledHeader = styled.header`
